@@ -1,0 +1,7 @@
+{
+  "name": "Moodpal - Your Safe Space",
+  "description": "A supportive mental health platform providing empathetic AI counseling and crisis resources. Built with Care and Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
